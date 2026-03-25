@@ -1,0 +1,19 @@
+Chatbots
+A chatbot is a computer program designed to simulate conversation with human users through text or voice.
+Chatbots use Natural Language Processing to understand user questions and provide responses.
+Types of Chatbots:
+• Rule-based chatbots
+• AI-powered chatbots
+• Hybrid chatbots
+Advantages of Chatbots:
+• Available 24/7
+• Instant responses
+• Cost efficient
+• Can handle multiple users
+Chatbots are commonly used in:
+• Customer service
+• Education
+• Banking
+• Healthcare
+• E-commerce
+
