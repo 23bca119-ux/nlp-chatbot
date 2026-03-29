@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 What is Artificial Intelligence:
 Artificial Intelligence is the simulation of human intelligence in machines that are programmed to think and learn.
 
@@ -62,4 +63,70 @@ AI Example Recommendation Systems:
 Recommendation systems suggest products or content based on user behavior.
 
 AI Example Virtual Assistants:
+=======
+What is Artificial Intelligence:
+Artificial Intelligence is the simulation of human intelligence in machines that are programmed to think and learn.
+
+AI Explanation:
+Artificial Intelligence enables machines to mimic human thinking and learning processes.
+
+What AI Enables:
+AI enables machines to perform tasks such as problem solving.
+
+AI Task Problem Solving:
+AI systems can analyze situations and find solutions to problems.
+
+AI Task Decision Making:
+AI can make decisions based on data and logic.
+
+AI Task Speech Recognition:
+AI can recognize and process human speech.
+
+AI Task Language Understanding:
+AI can understand human language using NLP.
+
+AI Task Image Recognition:
+AI can identify objects and patterns in images.
+
+Types of Artificial Intelligence:
+There are different types of AI such as Narrow AI and General AI.
+
+What is Narrow AI:
+Narrow AI is designed to perform specific tasks.
+
+Narrow AI Explanation:
+Narrow AI focuses on a single task like voice assistants or recommendation systems.
+
+What is General AI:
+General AI is capable of performing any intellectual task like humans.
+
+General AI Explanation:
+General AI can think, learn, and adapt across multiple domains like human intelligence.
+
+What is Machine Learning:
+Machine Learning is a subset of AI that allows systems to learn patterns from data.
+
+Machine Learning Explanation:
+Machine Learning enables systems to improve automatically through experience.
+
+What is Deep Learning:
+Deep Learning is a specialized form of machine learning that uses neural networks with many layers.
+
+Deep Learning Explanation:
+Deep Learning uses complex neural networks to process large amounts of data.
+
+Examples of Artificial Intelligence:
+Examples of AI include self-driving cars.
+
+AI Example Self Driving Cars:
+Self-driving cars use AI to navigate and make driving decisions.
+
+AI Example Chatbots:
+Chatbots use AI to simulate conversations with users.
+
+AI Example Recommendation Systems:
+Recommendation systems suggest products or content based on user behavior.
+
+AI Example Virtual Assistants:
+>>>>>>> 43d8320e54655d2b37a596814a771f35f17fca07
 Virtual assistants like Alexa and Siri use AI to assist users.

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 What is NLP:
 Natural Language Processing is a branch of Artificial Intelligence that helps computers understand, interpret, and generate human language.
 
@@ -68,4 +69,76 @@ NLP Example Alexa:
 Alexa uses NLP to understand and respond to voice commands.
 
 NLP Example Siri:
+=======
+What is NLP:
+Natural Language Processing is a branch of Artificial Intelligence that helps computers understand, interpret, and generate human language.
+
+NLP Explanation:
+NLP combines linguistics, computer science, and machine learning to process human language.
+
+Applications of NLP:
+NLP is used in chatbots.
+
+NLP Application Chatbots:
+Chatbots are a major application of NLP used for automated conversations.
+
+NLP Application Machine Translation:
+Machine translation converts text from one language to another.
+
+NLP Application Voice Assistants:
+Voice assistants like Alexa and Siri use NLP to understand voice commands.
+
+NLP Application Sentiment Analysis:
+Sentiment analysis detects emotions in text.
+
+NLP Application Text Summarization:
+Text summarization reduces long text into shorter meaningful summaries.
+
+NLP Application Spam Detection:
+Spam detection identifies unwanted or harmful messages.
+
+What is Tokenization:
+Tokenization is the process of splitting text into words or sentences.
+
+Tokenization Explanation:
+Tokenization breaks text into individual words or tokens.
+
+What is Stemming:
+Stemming reduces words to their root form.
+
+Stemming Explanation:
+Stemming removes suffixes to get the base form of a word.
+
+What is Lemmatization:
+Lemmatization converts words to their base or dictionary form.
+
+Lemmatization Explanation:
+Lemmatization uses vocabulary and grammar rules to find the correct base form.
+
+What is Named Entity Recognition:
+Named Entity Recognition identifies names, locations, and organizations in text.
+
+NER Explanation:
+NER helps in extracting important entities from text.
+
+What is Part-of-Speech Tagging:
+Part-of-Speech tagging identifies grammatical roles of words.
+
+POS Tagging Explanation:
+POS tagging assigns labels like noun, verb, adjective to words.
+
+Examples of NLP:
+Examples of NLP include chatbots.
+
+NLP Example Chatbots:
+Chatbots simulate human conversation using NLP.
+
+NLP Example Google Translate:
+Google Translate uses NLP for language translation.
+
+NLP Example Alexa:
+Alexa uses NLP to understand and respond to voice commands.
+
+NLP Example Siri:
+>>>>>>> 43d8320e54655d2b37a596814a771f35f17fca07
 Siri uses NLP to process and respond to user queries.
